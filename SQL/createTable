@@ -1,8 +1,0 @@
-CREATE TABLE personas(
-
-    per_id SERIAL PRIMARY KEY,
-    per_apellido varchar(50),
-    per_fecha_nacimiento varchar(50),
-    per_nombre varchar(50),
-    per_numero_documento integer,
-    per_tipo_documento varchar(50))
